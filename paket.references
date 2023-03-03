@@ -1,0 +1,15 @@
+Fake.Core.Target
+Fake.IO.FileSystem
+Farmer
+Feliz.Router
+Npgsql
+Npgsql.FSharp
+FSharp.Data
+Fable.FontAwesome
+Microsoft.Azure.CognitiveServices.Vision.ComputerVision
+Azure.Storage.Blobs
+Microsoft.CognitiveServices.Speech
+Browser
+Fable.Browser.MediaStream
+Dapper.FSharp
+SQLProvider
